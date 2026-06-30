@@ -1,8 +1,9 @@
 # Guia de instalação
 1. Baixe o conteúdo
-2. Acesse a pasta release
-3. Clique no pictureka.exe
-4. Jogue!
+2. Clique no instalador_VC_Redist.bat, aguarda a instalação e reiniciei o computador.
+3. Acesse a pasta release
+4. Clique no pictureka.exe
+5. Jogue!
 
 # Guia para empacotamento
 1. Baixe o conteúdo
